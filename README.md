@@ -1,0 +1,2 @@
+# GetPhotoFromBing
+Linux系统下通过脚本语言爬取Bing图库图片
